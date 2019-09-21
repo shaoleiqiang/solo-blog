@@ -10,6 +10,8 @@ SlqBlog
 
 ### 最新
 
+* [Solo小而美的博客系统，专为程序员设计 ](http://solo.leiqiang.site/articles/2019/09/20/1568960686198.html)
+* [如果你想什么都抓住，最终只能什么都抓不住](http://solo.leiqiang.site/articles/2019/09/20/1568958051373.html)
 * [腾讯云每天限时秒杀特惠活动](http://solo.leiqiang.site/articles/2019/09/20/1568947968173.html)
 * [【腾讯云9月中小企业特惠】腾讯云标准型S2服务器](http://solo.leiqiang.site/articles/2019/09/20/1568947750517.html)
 * [【阿里云ECS服务器爆款9月特惠】新户限时2折购](http://solo.leiqiang.site/articles/2019/09/20/1568947624810.html)
