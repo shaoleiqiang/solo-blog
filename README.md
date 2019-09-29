@@ -10,6 +10,7 @@ shaoleiqiang 的个人博客
 
 ### 最新
 
+* [腾讯云云服务器秒杀、特惠专辑](http://solo.leiqiang.site/articles/2019/09/29/1569750873413.html)
 * [世界，你好！](http://solo.leiqiang.site/hello-solo)
 
 
