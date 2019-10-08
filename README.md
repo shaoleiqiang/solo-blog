@@ -10,6 +10,7 @@ SlqBlog
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://solo.leiqiang.site/my-github-repos)
 * [只要爱不曾离开，不说“我爱你”又有何妨](http://solo.leiqiang.site/articles/2019/09/30/1569836817994.html)
 * [禅悟人生](http://solo.leiqiang.site/articles/2019/09/30/1569836796776.html)
 * [朋友相敬，敬于德；朋友相交，交于情](http://solo.leiqiang.site/articles/2019/09/30/1569836775838.html)
@@ -29,7 +30,6 @@ SlqBlog
 * [生命的真谛便会在每一刻、每一地、每一事物中展现出来](http://solo.leiqiang.site/articles/2019/09/30/1569836432252.html)
 * [注定无法挽回的痛苦，不如早点放弃](http://solo.leiqiang.site/articles/2019/09/30/1569836403185.html)
 * [欲望越小，人生就越幸福](http://solo.leiqiang.site/articles/2019/09/30/1569836303930.html)
-* [人生只售单程票，过去的就过去了，更重要的是走好后面的路](http://solo.leiqiang.site/articles/2019/09/30/1569836274394.html)
 
 ### 热门
 
@@ -49,6 +49,7 @@ SlqBlog
 * [浪漫是什么](http://solo.leiqiang.site/articles/2019/09/30/1569836186753.html)
 * [人性十大](http://solo.leiqiang.site/articles/2019/09/30/1569836218818.html)
 * [很多时候，人不是跌倒在缺陷上，而是跌倒在优势上](http://solo.leiqiang.site/articles/2019/09/30/1569836246275.html)
+* [人生只售单程票，过去的就过去了，更重要的是走好后面的路](http://solo.leiqiang.site/articles/2019/09/30/1569836274394.html)
 
 
 
