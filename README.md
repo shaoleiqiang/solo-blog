@@ -10,6 +10,7 @@ SlqBlog
 
 ### 最新
 
+* [腾讯云双11活动提前开启，双11同价，不容错过，速来抢购](http://solo.leiqiang.site/articles/2019/10/15/1571131573501.html)
 * [我在 GitHub 上的开源项目](http://solo.leiqiang.site/my-github-repos)
 * [只要爱不曾离开，不说“我爱你”又有何妨](http://solo.leiqiang.site/articles/2019/09/30/1569836817994.html)
 * [禅悟人生](http://solo.leiqiang.site/articles/2019/09/30/1569836796776.html)
@@ -29,7 +30,6 @@ SlqBlog
 * [农民的三句话和城里人的三句话](http://solo.leiqiang.site/articles/2019/09/30/1569836475199.html)
 * [生命的真谛便会在每一刻、每一地、每一事物中展现出来](http://solo.leiqiang.site/articles/2019/09/30/1569836432252.html)
 * [注定无法挽回的痛苦，不如早点放弃](http://solo.leiqiang.site/articles/2019/09/30/1569836403185.html)
-* [欲望越小，人生就越幸福](http://solo.leiqiang.site/articles/2019/09/30/1569836303930.html)
 
 ### 热门
 
@@ -50,6 +50,7 @@ SlqBlog
 * [人性十大](http://solo.leiqiang.site/articles/2019/09/30/1569836218818.html)
 * [很多时候，人不是跌倒在缺陷上，而是跌倒在优势上](http://solo.leiqiang.site/articles/2019/09/30/1569836246275.html)
 * [人生只售单程票，过去的就过去了，更重要的是走好后面的路](http://solo.leiqiang.site/articles/2019/09/30/1569836274394.html)
+* [欲望越小，人生就越幸福](http://solo.leiqiang.site/articles/2019/09/30/1569836303930.html)
 
 
 
