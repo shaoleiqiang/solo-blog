@@ -39,18 +39,18 @@ SlqBlog
 * [世界，你好！](http://solo.leiqiang.site/hello-solo)
 * [伯乐和千里马一样难求](http://solo.leiqiang.site/articles/2019/09/30/1569835995375.html)
 * [浪漫是什么](http://solo.leiqiang.site/articles/2019/09/30/1569836186753.html)
-* [人生只售单程票，过去的就过去了，更重要的是走好后面的路](http://solo.leiqiang.site/articles/2019/09/30/1569836274394.html)
-* [爱是一件没有安全感的事情](http://solo.leiqiang.site/articles/2019/09/30/1569835829199.html)
 * [执子之手与子携老的爱情不是找出来的，而是守出来的](http://solo.leiqiang.site/articles/2019/09/30/1569835868239.html)
 * [这个世上有些事，不是不懂，而是不屑，只为内心的宁静祥和](http://solo.leiqiang.site/articles/2019/09/30/1569835900196.html)
-* [我们能看多远，靠的不是双眼，而是胸怀](http://solo.leiqiang.site/articles/2019/09/30/1569835930838.html)
 * [诸法性如是，一切唯心造](http://solo.leiqiang.site/articles/2019/09/30/1569835966396.html)
-* [危机](http://solo.leiqiang.site/articles/2019/09/30/1569836107560.html)
 * [走出来的是路，扔掉的是包袱](http://solo.leiqiang.site/articles/2019/09/30/1569836134828.html)
+* [人生只售单程票，过去的就过去了，更重要的是走好后面的路](http://solo.leiqiang.site/articles/2019/09/30/1569836274394.html)
+* [爱是一件没有安全感的事情](http://solo.leiqiang.site/articles/2019/09/30/1569835829199.html)
+* [我们能看多远，靠的不是双眼，而是胸怀](http://solo.leiqiang.site/articles/2019/09/30/1569835930838.html)
+* [危机](http://solo.leiqiang.site/articles/2019/09/30/1569836107560.html)
 * [勇敢和过去说再见，走好脚下的路，才能收获灿烂的明天](http://solo.leiqiang.site/articles/2019/09/30/1569836161273.html)
 * [人性十大](http://solo.leiqiang.site/articles/2019/09/30/1569836218818.html)
-* [欲望越小，人生就越幸福](http://solo.leiqiang.site/articles/2019/09/30/1569836303930.html)
 * [很多时候，人不是跌倒在缺陷上，而是跌倒在优势上](http://solo.leiqiang.site/articles/2019/09/30/1569836246275.html)
+* [欲望越小，人生就越幸福](http://solo.leiqiang.site/articles/2019/09/30/1569836303930.html)
 
 
 
